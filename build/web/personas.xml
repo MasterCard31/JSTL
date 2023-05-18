@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<personas>
+    <persona>
+        <codigo>1001</codigo>
+        <nombre>Cheryl</nombre>
+        <apellido>Johnson</apellido>
+        <cargo>Manager</cargo>
+        <sueldo>12000</sueldo>
+    </persona>
+    <persona>
+        <codigo>1002</codigo>
+        <nombre>John</nombre>
+        <apellido>Smith</apellido>
+        <cargo>Employee</cargo>
+        <sueldo>10000</sueldo>
+    </persona>
+    <persona>
+        <codigo>1003</codigo>
+        <nombre>Justin</nombre>
+        <apellido>Claire</apellido>
+        <cargo>Senior Manager</cargo>
+        <sueldo>14000</sueldo>
+    </persona>
+    <persona>
+        <codigo>1004</codigo>
+        <nombre>Clark</nombre>
+        <apellido>Rick</apellido>
+        <cargo>Employee</cargo>
+        <sueldo>8000</sueldo>
+    </persona>
+</personas>
+
+
